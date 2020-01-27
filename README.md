@@ -1,7 +1,3 @@
----
-title: "Rgee: Hello world"
----
-
 ## 1) Load libraries
 ```r
 library(rgee)
